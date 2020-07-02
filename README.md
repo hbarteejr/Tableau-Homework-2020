@@ -1,6 +1,6 @@
 # Tableau-Homework-2020
 
-https://github.com/hbarteejr/Tableau-Homework-2020/blob/master/Images/citi-bike-station-bikes.jpg
+Images/citi-bike-station-bikes.jpg
 
 Background
 
