@@ -1,4 +1,12 @@
 # Tableau-Homework-2020
+____________________________________
+Results of Tableau Homework HBJ 2020 
+
+In this project, it was found that those individuals born in 1969 had the highest ridership for the month of February 2019. These riders typically ended at Van Brundt and Van Dyke Street, per dashboard. This is further explained in the charts that follow.  Thanks for your consideration. 
+
+https://public.tableau.com/profile/howard.bartee.jr.#!/vizhome/TableauHomeworkHBJ2020/BirthYearLatitudevs_LongitudeStartandEndStations
+___________________________________
+
 
 Historical Background
 
@@ -94,13 +102,6 @@ Hints
 Copyright
 Data Boot Camp © 2019. All Rights Reserved. 
 
-____________________________________
-Results of Tableau Homework HBJ 2020 
-
-In this project, it was found that those individuals born in 1969 had the highest ridership for the month of February 2019. These riders typically ended at Van Brundt and Van Dyke Street, per dashboard. This is further explained in the charts that follow.  Thanks for your consideration. 
-
-https://public.tableau.com/profile/howard.bartee.jr.#!/vizhome/TableauHomeworkHBJ2020/BirthYearLatitudevs_LongitudeStartandEndStations
-___________________________________
 
 
 
